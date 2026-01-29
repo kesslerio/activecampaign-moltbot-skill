@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ActiveCampaign CRM integration for lead management, deal tracking, and email automation",
   "author": "ShapeScale",
-  "repository": "",
+  "repository": "https://github.com/kesslerio/activecampaign-moltbot-skill-public",
   "license": "MIT",
   "skills": {
     "slug": "activecampaign",
